@@ -294,3 +294,13 @@
 .float-btn:hover {
     cursor: pointer;
 }
+
+.search-bar {
+    height: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#searchBtn {
+    margin-top: 20px;
+}
